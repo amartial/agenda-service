@@ -1,6 +1,6 @@
 name: Agenda Service - Service Pipeline
 env: 
-  KO_DOCKER_REPO: docker.io/ulrichsteve
+  KO_DOCKER_REPO: docker.io/alinombe
 on:
   push:
     branches: ['main']
